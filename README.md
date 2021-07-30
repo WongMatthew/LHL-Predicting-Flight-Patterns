@@ -16,9 +16,16 @@ These files were provided to us at the beginning of the project:
 * **[modeling.ipynb]():** Contains the instructions for modeling parts of the project. 
 * **[sample_submission.csv]():** Example of the model that is to be submitted 
 
+### ============ Extra EDA ==========
+
+**[more_eda.ipynb](https://github.com/WongMatthew/LHL-Predicting-Flight-Patterns/blob/main/Flight%20Prediction%20-%20master/more_eda.ipynb)**
+
 ### ================ Data Manipulation ==============
 
 These were the files we used to clean and manipulate data, and engineer features:
+
+**[Data Collection.ipynb](https://github.com/WongMatthew/LHL-Predicting-Flight-Patterns/blob/main/Flight%20Prediction%20-%20master/Data%20Collection.ipynb)**
+**[ 
 
 ### ================== Modelling =================
 
