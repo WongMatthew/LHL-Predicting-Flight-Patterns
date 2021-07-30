@@ -8,7 +8,7 @@ The main goal of this project is to predict the flight delays from the first 7 d
 
 **[Midterm Project Presentation](https://docs.google.com/presentation/d/1qJlmTFaoCyarm5VwsjEDgGFqjtY1L-RxNNgkBC9nKHM/edit#slide=id.p)**
 
-**[Midterm Project Submission](https://github.com/WongMatthew/LHL-Predicting-Flight-Patterns/blob/main/Flight%20Prediction%20-%20master/submission_file.csv.zip)**
+**[Midterm Project Submission File](https://github.com/WongMatthew/LHL-Predicting-Flight-Patterns/blob/main/Flight%20Prediction%20-%20master/submission_file.csv.zip)**
 
 ## ------------------------ Contents -------------------------
 
