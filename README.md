@@ -8,16 +8,16 @@ The main goal of this project is to predict the flight delays from the first 7 d
 
 **[Midterm Project Presentation](https://docs.google.com/presentation/d/1qJlmTFaoCyarm5VwsjEDgGFqjtY1L-RxNNgkBC9nKHM/edit#slide=id.p)**
 
-## **[Midterm Project Submission]()**
+## **[Midterm Project Submission](https://github.com/WongMatthew/LHL-Predicting-Flight-Patterns/blob/main/Flight%20Prediction%20-%20master/submission_file.csv.zip)**
 
 ## ------------------------ Contents -------------------------
 
 ### =========== ReadMe Files & Guide Notebooks =========
 These files were provided to us at the beginning of the project:
 
-* **[exploratory_analysis.ipynb]():** The exploratory data analysis contains 10 questions that we needed to answer during the data exploration phase. It helped us get familiar with the variables and dataset. 
-* **[data_description.md]():** Contains the description of all variables across 4 tables in the dataset.
-* **[modeling.ipynb]():** Contains the instructions for modeling parts of the project. 
+* **[exploratory_analysis.ipynb](https://github.com/WongMatthew/LHL-Predicting-Flight-Patterns/blob/main/Flight%20Prediction%20-%20master/exploratory_analysis.ipynb):** The exploratory data analysis contains 10 questions that we needed to answer during the data exploration phase. It helped us get familiar with the variables and dataset. 
+* **[data_description.md](https://github.com/WongMatthew/LHL-Predicting-Flight-Patterns/blob/main/Flight%20Prediction%20-%20master/data_description.md):** Contains the description of all variables across 4 tables in the dataset.
+* **[modeling.ipynb](https://github.com/WongMatthew/LHL-Predicting-Flight-Patterns/blob/main/Flight%20Prediction%20-%20master/modeling.ipynb):** Contains the instructions for modeling parts of the project. 
 * **[sample_submission.csv]():** Example of the model that is to be submitted 
 
 ### ================= Extra EDA ==================
