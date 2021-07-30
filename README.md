@@ -48,9 +48,9 @@ These files contain the various models we used:
 
 **[SGDRegressor.ipynb](https://github.com/WongMatthew/LHL-Predicting-Flight-Patterns/blob/main/Flight%20Prediction%20-%20master/SGDRegressor.ipynb)**
 
-**[SVR.ipynb]()**
+**[SVR.ipynb](https://github.com/WongMatthew/LHL-Predicting-Flight-Patterns/blob/main/Flight%20Prediction%20-%20master/SVR.ipynb)**
 
-**[XGBoost.ipynb]()**
+**[XGBoost.ipynb](https://github.com/WongMatthew/LHL-Predicting-Flight-Patterns/blob/main/Flight%20Prediction%20-%20master/XGBooost%20.ipynb)**
 
 ### ==========================================
 
