@@ -8,6 +8,8 @@ The main goal of this project is to predict the flight delays from the first 7 d
 
 **[Midterm Project Presentation](https://docs.google.com/presentation/d/1qJlmTFaoCyarm5VwsjEDgGFqjtY1L-RxNNgkBC9nKHM/edit#slide=id.p)**
 
+## **[Midterm Project Submission]()**
+
 ## ------------------------ Contents -------------------------
 
 ### =========== ReadMe Files & Guide Notebooks =========
