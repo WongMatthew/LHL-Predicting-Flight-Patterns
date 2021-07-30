@@ -26,11 +26,31 @@ These were the files we used to clean and manipulate data, and engineer features
 
 **[Data Collection.ipynb](https://github.com/WongMatthew/LHL-Predicting-Flight-Patterns/blob/main/Flight%20Prediction%20-%20master/Data%20Collection.ipynb)**
 
-**[Data Cleaning.ipynb]()**
+**[Data Cleaning and Feature Engineering.ipynb](https://github.com/WongMatthew/LHL-Predicting-Flight-Patterns/blob/main/Flight%20Prediction%20-%20master/Data%20Cleaning%20and%20Feature%20Engineering.ipynb)**
 
 ### ================== Modelling =================
 
 These files contain the various models we used:
+
+**[Base model with Linear Regression.ipynb](https://github.com/WongMatthew/LHL-Predicting-Flight-Patterns/blob/main/Flight%20Prediction%20-%20master/Base%20model%20with%20Linear%20Regression.ipynb)**
+
+**[Optimized model with Linear Regression.ipynb](https://github.com/WongMatthew/LHL-Predicting-Flight-Patterns/blob/main/Flight%20Prediction%20-%20master/Optimized%20model%20with%20Linear%20Regression.ipynb)**
+
+**[ElasticNet Classifier.ipynb](https://github.com/WongMatthew/LHL-Predicting-Flight-Patterns/blob/main/Flight%20Prediction%20-%20master/ElasticNet%20Classifier.ipynb)**
+
+**[Naive Bayes.ipynb](https://github.com/WongMatthew/LHL-Predicting-Flight-Patterns/blob/main/Flight%20Prediction%20-%20master/Naive%20Bayes.ipynb)**
+
+**[Poly Regression](https://github.com/WongMatthew/LHL-Predicting-Flight-Patterns/blob/main/Flight%20Prediction%20-%20master/Poly%20Regression.ipynb)**
+
+**[ADA Boost Classifier.ipynb](https://github.com/WongMatthew/LHL-Predicting-Flight-Patterns/blob/main/Flight%20Prediction%20-%20master/ADA%20Boost%20Classifier.ipynb)**
+
+**[Random Forests.ipynb](https://github.com/WongMatthew/LHL-Predicting-Flight-Patterns/blob/main/Flight%20Prediction%20-%20master/Random%20Forests.ipynb)**
+
+**[SGDRegressor.ipynb](https://github.com/WongMatthew/LHL-Predicting-Flight-Patterns/blob/main/Flight%20Prediction%20-%20master/SGDRegressor.ipynb)**
+
+**[SVR.ipynb]()**
+
+**[XGBoost.ipynb]()**
 
 ### ==========================================
 
