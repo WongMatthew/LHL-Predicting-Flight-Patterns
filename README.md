@@ -6,7 +6,7 @@ The main goal of this project is to predict the flight delays from the first 7 d
 
 **[Midterm Project Kickoff](https://docs.google.com/presentation/d/1l9k59mIrGWGlaQ6xx8_1ps8fTdnl02WxP5vFSPiBPKo/edit#slide=id.p)**
 
-## ========================= Contents =========================
+## ------------------------ Contents -------------------------
 
 ### ======================= ReadMe Files & Guide Notebooks =======================
 These files were provided to us at the beginning of the project:
@@ -24,7 +24,7 @@ These were the files we used to clean and manipulate data, and engineer features
 
 These files contain the various models we used:
 
-### ==========================================================================
+### ========================================================================
 
 ## Data
 
